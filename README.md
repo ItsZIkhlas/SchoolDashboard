@@ -17,10 +17,9 @@ This app provides teachers, students, and administrators with an easy-to-use int
 
 ## 🛠️ Tech Stack
 - **React** – Component-based UI
-- **Tailwind CSS / CSS** – Styling
+- **Tailwind CSS** – Styling
 - **Recharts** – Charts and data visualization
-- **Supabase / LocalStorage** – Data storage and retrieval
-- **React Router** – Navigation between pages
+- **NextJs** – Navigation between pages and API Fetching
 - **React Hook Form & Zod** – Form handling and validation
 
 ---
