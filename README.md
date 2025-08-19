@@ -1,26 +1,24 @@
-# Lama Dev School Management Dashboard
+# 🎓 School Dashboard App
 
-## Getting Started
+A comprehensive and interactive dashboard for schools, built with **React**.  
+This app provides teachers, students, and administrators with an easy-to-use interface to track classes, assignments, and student performance.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🚀 Features
+- **Class Management**: View and organize classes
+- **Student Profiles**: Access student details and performance stats
+- **Assignment Tracking**: Add, edit, and monitor assignments
+- **Grades Overview**: Visualize student grades with charts
+- **Responsive Design**: Works on desktop and mobile
+- **Interactive Components**: Tables, cards, modals, and charts
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Lama Dev Youtube Channel](https://youtube.com/lamadev) 
-- [Next.js](https://nextjs.org/learn)
+## 🛠️ Tech Stack
+- **React** – Component-based UI
+- **Tailwind CSS / CSS** – Styling
+- **Recharts** – Charts and data visualization
+- **Supabase / LocalStorage** – Data storage and retrieval
+- **React Router** – Navigation between pages
+- **React Hook Form & Zod** – Form handling and validation
