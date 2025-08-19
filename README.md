@@ -22,3 +22,8 @@ This app provides teachers, students, and administrators with an easy-to-use int
 - **Supabase / LocalStorage** – Data storage and retrieval
 - **React Router** – Navigation between pages
 - **React Hook Form & Zod** – Form handling and validation
+
+---
+
+## 🛠️ Live Demo
+https://schooldatadashboard.netlify.app/
